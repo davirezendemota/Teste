@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TESTANDO</title>
+</head>
+<body>
+<ul>
+	<li>Mago</li>
+	<li>Xorume</li>
+	<li>Lenda</li>
+</ul>
+</body>
+</html>
